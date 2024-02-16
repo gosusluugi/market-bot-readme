@@ -1,10 +1,10 @@
 # Market bot
 
-Данный скрипт автоматизирует сбор заказов на https://megamarket.ru/
+Данный скрипт автоматизирует сбор заказов на [https://megamarket.ru/](https://megamarket.ru/)
 
 Скрипт выполняет следующие шаги:
 1. Открывает браузерную сессию в chrome с персистентным профилем;
-2. Авторизуется на https://megamarket.ru/ с помощью номера телефона из https://sms-activate.org/ru;
+2. Авторизуется на [https://megamarket.ru/](https://megamarket.ru/) с помощью номера телефона из [https://sms-activate.org/ru](https://sms-activate.org/ru);
 3. Собирает корзину товаров;
 4. Оформляет заказ.
 
