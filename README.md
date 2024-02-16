@@ -40,7 +40,7 @@ npm run init
 npm run start
 ```
 
-Скрипт создаст папку пользователя в [user_data_dir](#userdatadir).
+Скрипт создаст папку пользователя в [user_data_dir](#user_data_dir).
 
 Чтобы открыть сохраненный профиль выполните команду:
 
