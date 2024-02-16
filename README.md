@@ -202,7 +202,7 @@ launch_params:
 postfix: "click"
 address: "Волгоград, улица Пушкина, 10"
 comment: "Звонить сюда: 88005553535"
-payment_method: "8005553535"
+payment_method: "9005553535"
 new_user_data:
   password: "Vfcrbv99+"
   first_name: "Иван"
@@ -219,7 +219,7 @@ sms_activate_params:
 launch_params:
   executable_path: "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
 address: "Волгоград, улица Пушкина, 10"
-payment_method: "88005553535"
+payment_method: "9005553535"
 new_user_data:
   password: "Vfcrbv99+"
 ```
